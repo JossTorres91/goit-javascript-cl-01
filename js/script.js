@@ -1,4 +1,4 @@
-var a = 5;
+var a = 50;
 var b = "7";
 var c = a * a;
 var d = a * b;
